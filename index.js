@@ -4,6 +4,7 @@ const main=async()=>{
             "asdfghjklzxcvbnmqwertyuiop", c => c.charCodeAt(0)),
             rp: {
                 name: "Local WebAuthn Test",
+                id:"webauthndeploy.vercel.app"
                 
             },
         user: {
